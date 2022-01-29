@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**vaishnaviadhao/vaishnaviadhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vaishnavi here 👋.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am graduated Statistics student, Python, Ruby On Rails, Angular are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
+I am interested in Web development, Data Analysis
+
+😄 Pronouns: She/Her or TeamMaker😉.
+👯 I’m looking to collaborate on open source projects.
+💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music
+⚡ Fun fact: I spend almost 5-6 hours Learning everyday
+
