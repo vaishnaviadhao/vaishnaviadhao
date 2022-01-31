@@ -2,7 +2,7 @@
 ### Vaishnavi here 👋.
 
 ### About me
-
+***
 I am graduated Statistics student, Python, Ruby On Rails, Angular are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 
 I am interested in Web development, Data Analysis
