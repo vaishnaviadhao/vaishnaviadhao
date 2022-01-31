@@ -5,7 +5,7 @@
 ***
 I am graduated Statistics student, Python, Ruby On Rails, Angular are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 
-I am interested in Web development, Data Analysis
+*I am interested in Web development, Data Analysis
 
 -😄 Pronouns: She/Her or TeamMaker😉.
 -👯 I’m looking to collaborate on open source projects.
