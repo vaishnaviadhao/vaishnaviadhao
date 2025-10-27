@@ -3,7 +3,7 @@
 
 ### About me
 ***
-I’m a Post-Graduate in Statistics with over 2 years of professional experience, currently working in the field of AI and Automation. My work revolves around transforming complex data into intelligent, automated solutions that drive efficiency and innovation.
+I’m a Post-Graduate in Statistics with over 2+ years of professional experience, currently working in the field of AI and Automation. My work revolves around transforming complex data into intelligent, automated solutions that drive efficiency and innovation.
 
 I’m proficient in Python, Ruby on Rails, and Angular, and I enjoy building scalable web applications and automation frameworks powered by data-driven insights. My passion lies in combining analytical thinking with creative problem-solving to deliver practical, impactful results.
 
